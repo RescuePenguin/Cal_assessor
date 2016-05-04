@@ -1,0 +1,22 @@
+/* app css stylesheet */
+
+body {
+  background-color: gray;
+  overflow-y: scroll;
+}
+
+header {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer {
+  height: 60px;
+}
+
+.page {
+  background-color: white;
+  min-height: 100vh;
+};
